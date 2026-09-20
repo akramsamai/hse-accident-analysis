@@ -1,12 +1,12 @@
-HSE Incident Data Analysis
+# HSE Incident Data Analysis
 
-Project Overview
+## Project Overview
 
 This project analyzes workplace incident data using Python and Pandas to identify incident patterns, severity levels, contributing factors, trends, and key HSE performance indicators.
 
 The analysis is based on incident data from ENAFOR covering the period from 2017 to 2025.
 
-Objectives
+## Objectives
 
 - Analyze workplace incident data.
 - Identify the most common incident types.
@@ -20,7 +20,7 @@ Objectives
 - Explore the relationship between work experience and days lost.
 - Provide data-driven HSE insights.
 
-Dataset
+## Dataset
 
 - Company: ENAFOR
 - Period: 2017–2025
@@ -31,7 +31,7 @@ Dataset
 
 The dataset includes information such as incident date, work area, incident type, severity, contributing factor, shift, days lost, injury type, body part, PPE usage, and experience years.
 
-Key Findings
+## Key Findings
 
 - Medium-severity incidents represented the largest category with 479 incidents (46.10%).
 - Critical incidents accounted for 34 cases, but generated 4,145 days lost.
@@ -41,7 +41,7 @@ Key Findings
 - PPE was recorded as fully used in 637 incidents (61.31%), while 190 incidents (18.29%) involved incomplete PPE.
 - The correlation between Experience Years and Days Lost was very weak (-0.021).
 
-Analysis Performed
+## Analysis Performed
 
 The project includes analysis of:
 
@@ -61,7 +61,7 @@ The project includes analysis of:
 - Work shifts
 - Experience versus days lost
 
-Tools & Technologies
+## Tools & Technologies
 
 - Python
 - Pandas
@@ -71,12 +71,13 @@ Tools & Technologies
 - Data Analysis
 - Data Visualization
 
-Project Files
+## Project Files
+
 
 - "HSE_Incident_Analysis_Final.ipynb" — Complete analysis notebook
 - "HSE_Incident_Analysis_Final.xlsx" — Analysis results and summary tables
 
-Author
+## Author
 
 Akram Samai
 
